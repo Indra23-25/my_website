@@ -5,7 +5,7 @@ A static academic portfolio built with HTML, CSS, and JavaScript. No installatio
 ## Publish on GitHub Pages
 
 1. Sign in to GitHub as Indra23-25.
-2. Create a public repository named exactly Indra23-25.github.io. If it already exists, inspect it before replacing any content.
+2. Create a public repository named exactly indra23-25.github.io. If it already exists, inspect it before replacing any content.
 3. Extract this ZIP. Upload the contents of this folder to the repository, preserving the assets folder. The index.html file must be at the repository root, not inside another folder. Do not upload the ZIP itself.
 4. Commit the files to the main branch.
 5. In the repository, open Settings > Pages.
@@ -22,7 +22,9 @@ This package prepares the website for that address; it does not create a reposit
 - index.html: content and page structure.
 - styles.css: layout, typography, and responsive styles.
 - script.js: navigation highlighting and email copying.
-- assets/: downloadable CV and favicon.
+- assets/: downloadable CV, favicon, and profile photograph.
+
+For an existing website, see PROFILE-PHOTO-UPDATE.md for the three-file photo update and instructions for preserving later edits to your biography.
 
 ## Making changes
 
